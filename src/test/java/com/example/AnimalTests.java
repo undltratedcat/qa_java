@@ -1,10 +1,7 @@
 package com.example;
 
 import org.hamcrest.MatcherAssert;
-import org.junit.Rule;
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
-
 import static org.hamcrest.CoreMatchers.equalTo;
 
 public class AnimalTests {

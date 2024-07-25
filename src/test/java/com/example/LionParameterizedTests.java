@@ -6,13 +6,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnit;
 import org.mockito.junit.MockitoRule;
-
-import java.util.List;
-import java.util.Objects;
-
 import static org.hamcrest.CoreMatchers.equalTo;
 
 @RunWith(Parameterized.class)
